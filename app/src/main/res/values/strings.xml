@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Y2be lists</string>
+
+    <string name="facebook_app_id">688330551347288</string>
+    <string name="youtube_api_key">AIzaSyCODtRDR5akxW9Ciw6QyIIrpA2U-GaMOTo</string>
+
+    <string name="login_attempt_failed">Login attempt failed.</string>
+    <string name="logout">Logout</string>
+
+    <string name="playlist_1">POP Music Playlist 2017</string>
+    <string name="playlist_2">Rock, Pop, Soul</string>
+    <string name="playlist_3">Android 7.0 Nougat</string>
+
+    <string name="no_connection">No internet connection</string>
+
+    <string name="open_drawer">Open the drawer</string>
+    <string name="close_drawer">Close the drawer</string>
+
+</resources>

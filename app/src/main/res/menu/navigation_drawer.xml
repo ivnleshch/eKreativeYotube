@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".activities.PlayListActivity">
+    <group android:id="@+id/navigation_drawer_group">
+        <item
+            android:id="@+id/menu_item_01"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="@string/playlist_1" />
+        <item
+            android:id="@+id/menu_item_02"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="@string/playlist_2" />
+        <item
+            android:id="@+id/menu_item_03"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="@string/playlist_3" />
+    </group>
+</menu>
